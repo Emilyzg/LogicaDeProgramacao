@@ -1,0 +1,12 @@
+C:\Users\emily\OneDrive\Documentos\Curse-Udemy\Seção 12.C#\221-Crescente\bin\Debug\netcoreapp3.1\221-Crescente.exe
+C:\Users\emily\OneDrive\Documentos\Curse-Udemy\Seção 12.C#\221-Crescente\bin\Debug\netcoreapp3.1\221-Crescente.deps.json
+C:\Users\emily\OneDrive\Documentos\Curse-Udemy\Seção 12.C#\221-Crescente\bin\Debug\netcoreapp3.1\221-Crescente.runtimeconfig.json
+C:\Users\emily\OneDrive\Documentos\Curse-Udemy\Seção 12.C#\221-Crescente\bin\Debug\netcoreapp3.1\221-Crescente.runtimeconfig.dev.json
+C:\Users\emily\OneDrive\Documentos\Curse-Udemy\Seção 12.C#\221-Crescente\bin\Debug\netcoreapp3.1\221-Crescente.dll
+C:\Users\emily\OneDrive\Documentos\Curse-Udemy\Seção 12.C#\221-Crescente\bin\Debug\netcoreapp3.1\221-Crescente.pdb
+C:\Users\emily\OneDrive\Documentos\Curse-Udemy\Seção 12.C#\221-Crescente\obj\Debug\netcoreapp3.1\221-Crescente.AssemblyInfoInputs.cache
+C:\Users\emily\OneDrive\Documentos\Curse-Udemy\Seção 12.C#\221-Crescente\obj\Debug\netcoreapp3.1\221-Crescente.AssemblyInfo.cs
+C:\Users\emily\OneDrive\Documentos\Curse-Udemy\Seção 12.C#\221-Crescente\obj\Debug\netcoreapp3.1\221-Crescente.csproj.CoreCompileInputs.cache
+C:\Users\emily\OneDrive\Documentos\Curse-Udemy\Seção 12.C#\221-Crescente\obj\Debug\netcoreapp3.1\221-Crescente.dll
+C:\Users\emily\OneDrive\Documentos\Curse-Udemy\Seção 12.C#\221-Crescente\obj\Debug\netcoreapp3.1\221-Crescente.pdb
+C:\Users\emily\OneDrive\Documentos\Curse-Udemy\Seção 12.C#\221-Crescente\obj\Debug\netcoreapp3.1\221-Crescente.genruntimeconfig.cache

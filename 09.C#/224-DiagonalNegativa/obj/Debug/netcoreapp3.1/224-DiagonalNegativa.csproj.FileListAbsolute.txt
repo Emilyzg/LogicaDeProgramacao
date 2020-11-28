@@ -1,0 +1,3 @@
+C:\Users\emily\OneDrive\Documentos\Curse-Udemy\Seção 12.C#\224-DiagonalNegativa\obj\Debug\netcoreapp3.1\224-DiagonalNegativa.AssemblyInfoInputs.cache
+C:\Users\emily\OneDrive\Documentos\Curse-Udemy\Seção 12.C#\224-DiagonalNegativa\obj\Debug\netcoreapp3.1\224-DiagonalNegativa.AssemblyInfo.cs
+C:\Users\emily\OneDrive\Documentos\Curse-Udemy\Seção 12.C#\224-DiagonalNegativa\obj\Debug\netcoreapp3.1\224-DiagonalNegativa.csproj.CoreCompileInputs.cache
